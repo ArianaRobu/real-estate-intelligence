@@ -32,6 +32,11 @@ The platform will combine data analysis, feature engineering, machine learning, 
 - Docker
 
 ## Project Status
-In development
+
+
+
+
+
+
 
 🚧 In development
