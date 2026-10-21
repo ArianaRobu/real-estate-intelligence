@@ -30,7 +30,7 @@ data/processed/*
 
 # Trained models
 models/*.pkl
-models/*.joblib
+#models/*.joblib
 models/*.json
 
 # Environment variables
