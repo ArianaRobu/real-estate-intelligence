@@ -177,6 +177,4 @@ The trained models are stored in the `models/` directory.
 - SHAP
 - Plotly
 - Streamlit
-- FastAPI
-- Docker
 
